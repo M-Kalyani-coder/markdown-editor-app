@@ -1,4 +1,4 @@
 # Markdown Editor App
 
 
-![image alt](https://github.com/M-Kalyani-coder/miniproject/blob/044860076d1795004f47d152259694c8960ce763/Screenshot%202025-06-19%20234132.png)
+![image alt](https://github.com/M-Kalyani-coder/markdown-editor-app/blob/356504da16b53ab1af201b06ea6932e6481e970b/Screenshot%202025-06-20%20000253.png)
